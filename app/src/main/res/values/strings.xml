@@ -1,0 +1,31 @@
+
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Berikutnya</string>
+
+    <!-- MARIN KITAGAWA -->
+    <string name="artwork_1_name">Marin Kitagawa</string>
+    <string name="artwork_1_anime">My Dress-Up Darling</string>
+    <string name="artwork_1_desc">Marin adalah siswi SMA yang ceria, supel, dan sangat percaya diri. Ia sangat menyukai cosplay dan anime. Meskipun terlihat populer, Marin adalah orang yang ramah dan mudah berteman.</string>
+
+    <!-- ITSUKI NAKANO -->
+    <string name="artwork_2_name">Itsuki Nakano</string>
+    <string name="artwork_2_anime">The Quintessential Quintuplets</string>
+    <string name="artwork_2_desc">Itsuki merupakan salah satu dari lima saudara kembar Nakano. Ia dikenal rajin, serius dalam belajar, dan memiliki kepribadian yang sedikit keras kepala. Ia juga sangat menyukai makanan.</string>
+
+    <!-- MITSUHA MIYAMIZU -->
+    <string name="artwork_3_name">Mitsuha Miyamizu</string>
+    <string name="artwork_3_anime">Your Name (Kimi no Na wa)</string>
+    <string name="artwork_3_desc">Mitsuha adalah seorang gadis SMA yang tinggal di desa Itomori. Ia memiliki sifat ceria dan ingin merasakan kehidupan di kota besar. Hidupnya berubah setelah mengalami kejadian pertukaran tubuh dengan seorang laki-laki bernama Taki.</string>
+
+    <!-- ANZU HOSHINO -->
+    <string name="artwork_4_name">Anzu Hanashiro</string>
+    <string name="artwork_4_anime">Saijo no Osewa</string>
+    <string name="artwork_4_desc">Anzu Hanashiro adalah karakter yang memiliki kepribadian ceria dan menarik. Ia menjadi salah satu karakter yang memberikan warna dalam cerita Saijo no Osewa.</string>
+    <string name="artwork_5_name">Isla</string>
+    <string name="artwork_5_anime">Plastic Memories</string>
+    <string name="artwork_5_desc">Isla adalah Giftia yang bekerja di perusahaan SAI Corporation. Ia memiliki sifat pendiam, lembut, dan sedikit canggung. Meskipun begitu, Isla memiliki hati yang baik dan sangat menghargai orang-orang di sekitarnya.</string>
+
+</resources>
